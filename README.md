@@ -1,2 +1,1 @@
-# Cracking-The-Coding-Interview
-Solutions to the Cracking the Coding Interview book.
+Problems of the Cracking the Coding Interview Book
